@@ -5,7 +5,7 @@
     "@rails/webpacker": "^3.3.0",
     "elm": "^0.18.0",
     "elm-webpack-loader": "^4.4.0",
-    "webpack-dev-server": "^2.11.1"
+    "webpack-dev-server": "^3.1.11"
   },
   "devDependencies": {
     "elm-hot-loader": "^0.5.4",
